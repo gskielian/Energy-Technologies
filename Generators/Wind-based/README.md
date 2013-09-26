@@ -11,4 +11,4 @@ We will discuss and compare:
 * Wattage per knot of wind
 
 
-and provide resources for you to estimate the amount of energy you can attain from wind power from your area (but no guarantees, these are just estimates).
+The page will provide resources for you to estimate the amount of energy you can attain from wind power from your area (but no guarantees, these are just estimates).
